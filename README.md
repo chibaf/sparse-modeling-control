@@ -44,3 +44,20 @@ Sparse Modeling
 スパースモデリング―基礎から動的システムへの応用―
 
 https://nagahara-masaaki.github.io/spm.html
+
+スパースモデリング - 基礎から動的システムへの応用 - | コロナ社
+
+永原 正章 北九州市立大教授 博士（情報学） 著
+<pre>
+発行年月日
+2017/10/31
+判型
+A5
+ページ数
+220ページ
+ISBN
+978-4-339-03222-2
+</pre>
+
+https://www.coronasha.co.jp/np/isbn/9784339032222/
+
